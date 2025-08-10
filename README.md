@@ -28,7 +28,7 @@ I love exploring the intersection of **data analytics**, **algorithms**, and **a
 ---
 
 ## 📫 Let’s Connect  
-- [LinkedIn](#)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sayan-goswami-627116246/)
 - [Twitter](#)  
 - [Portfolio](#)  
 
