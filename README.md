@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I’m Sayan 👋  
 
-<!--
-**sayangoswamisg/sayangoswamisg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **data enthusiast** and **software developer** in the making, currently pursuing my **B.Tech in Computer Science and Engineering**.  
+I love exploring the intersection of **data analytics**, **algorithms**, and **application development** to create impactful, efficient, and user-focused solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I Do  
+- 💻 Solve **DSA problems** and optimize algorithms for real-world scenarios  
+- 🌐 Work with **Python, C++, JavaScript, React**, and other modern tools  
+- 📊 Build **data-driven applications** and interactive web projects  
+- 📈 Explore **SQL, machine learning**, and **data visualization** techniques  
+
+---
+
+## 🚀 Current Focus  
+- 🏆 Improving my **problem-solving skills** through competitive programming & LeetCode challenges  
+- ⚡ Learning **full-stack development** and strengthening my **React** skills  
+- 📚 Preparing for **GATE** while working on side projects  
+
+---
+
+## 📌 Notable Achievements  
+- 🔥 50+ days into the **#100DaysOfCode** challenge, sharing progress daily  
+- ✅ Cleared **HackerRank Python & SQL skill tests**  
+- 🥈 Secured **2nd place** in the Prabudhha Solution Challenge  
+
+---
+
+## 📫 Let’s Connect  
+- [LinkedIn](#)  
+- [Twitter](#)  
+- [Portfolio](#)  
+
+---
+
+⭐ *"Code. Learn. Repeat."* ⭐
